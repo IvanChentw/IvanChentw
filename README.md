@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Wei-Han Chen (Ivan)
+
+SerDes & analog IC design engineer at MediaTek, working on clocking for high-speed wireline transceivers. Previously M.S. at National Taiwan University (ICS), researching low-jitter fractional output dividers with Prof. Tsung-Hsien Lin.
+
+- Interests: SerDes TX/RX clocking, PLLs, frequency synthesis, DTC/TDC calibration
+- Publication: *An Area-Efficient Low-Jitter Fractional Output Divider With Replica-DTC-Free Background Calibration*, IEEE JSSC, Nov. 2024
+
+Website: [ivanchentw.github.io](https://ivanchentw.github.io) · Email: weihanchentw@gmail.com
